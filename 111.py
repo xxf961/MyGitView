@@ -1,7 +1,5 @@
-include <stdio.h>
 
-int main(){
-    return 0;
-}
+def m5():
+    pass
 
 #git demo
