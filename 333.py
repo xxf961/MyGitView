@@ -1,8 +1,8 @@
 
-def m5():
+def b1():
     pass
 
-def m8():
+def b2():
     pass
 
 #git demo
